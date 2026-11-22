@@ -1,0 +1,243 @@
+{
+  "panelLayout": {
+    "Combat": [
+      731,
+      291,
+      1,
+      9
+    ],
+    "Movement": [
+      182,
+      273,
+      1,
+      3
+    ],
+    "Player": [
+      660,
+      28,
+      1,
+      1
+    ],
+    "World": [
+      490,
+      31,
+      1,
+      0
+    ],
+    "HUD": [
+      269,
+      33,
+      1,
+      7
+    ],
+    "Cosmetics": [
+      18,
+      136,
+      1,
+      10
+    ],
+    "Misc": [
+      514,
+      239,
+      1,
+      8
+    ],
+    "Render": [
+      347,
+      255,
+      1,
+      6
+    ],
+    "Hugo SMP": [
+      723,
+      203,
+      0,
+      2
+    ],
+    "Fun": [
+      9,
+      374,
+      1,
+      5
+    ],
+    "Friends": [
+      463,
+      130,
+      1,
+      4
+    ]
+  },
+  "moduleKeys": {
+    "Freecam": 27
+  },
+  "effects": [
+    "SKY",
+    "MUSIC",
+    "ARRAY",
+    "STATS",
+    "DRAGON",
+    "HOTBAR",
+    "JUMP",
+    "KILL",
+    "AURA",
+    "ATMOSPHERE"
+  ],
+  "panelBlur": true,
+  "theme": 0,
+  "skyStyle": 7,
+  "skySpeed": 0.5,
+  "skyWarp": 1.0,
+  "skyDensity": 1.0,
+  "skyFilament": 1.0,
+  "skyGlow": 1.0,
+  "skyScale": 3.5,
+  "skyStars": 1.0,
+  "skyRotation": 0.0,
+  "skyQuality": 1,
+  "skyAccent": true,
+  "customAccent": 10276607,
+  "stretchRatio": 2,
+  "stretched": false,
+  "hudColors": {},
+  "accentHue": -1.0,
+  "hudX": 442,
+  "hudY": 454,
+  "coordX": 0,
+  "coordY": 86,
+  "speedX": 0,
+  "speedY": 109,
+  "weatherStyle": 5,
+  "weatherDensity": 1,
+  "weatherWind": 0,
+  "skyLighting": 1,
+  "panelGlow": true,
+  "effectBloom": true,
+  "visualPreset": 2,
+  "effectStrength": {
+    "Item Chams": 0.7782738
+  },
+  "enabled": false,
+  "starWandEnabled": false,
+  "frozenHornsEnabled": false,
+  "zombieArmsEnabled": false,
+  "headlessEnabled": false,
+  "showOtherCosmetics": true,
+  "emoteWheelEnabled": true,
+  "autoThirdPerson": true,
+  "uiSounds": true,
+  "inventoryWatchEnabled": true,
+  "lockEscape": false,
+  "hoverTotemEnabled": true,
+  "freecamEnabled": false,
+  "viewModel": true,
+  "hudGlow": true,
+  "messageRecipient": "",
+  "messageBody": "",
+  "messageDelay": 10,
+  "glassPreset": 1,
+  "swingStyle": 6,
+  "handX": 27,
+  "handY": 27,
+  "handZ": -50,
+  "handPitch": -155,
+  "handYaw": 0,
+  "handRoll": 75,
+  "handFov": 70,
+  "handScale": 100,
+  "swingSpeed": 100,
+  "swingAmount": 100,
+  "handScope": 0,
+  "swingPitch": 0,
+  "swingYaw": 0,
+  "swingRoll": 0,
+  "hudLayout": {
+    "Spotify player": [
+      5,
+      6
+    ],
+    "Notifications": [
+      407,
+      17
+    ],
+    "Target HUD": [
+      512,
+      295
+    ]
+  },
+  "killAura": false,
+  "auraSpam": false,
+  "auraCrits": false,
+  "auraOrbit": false,
+  "auraRate": 14,
+  "auraRadius": 25,
+  "fakeLag": false,
+  "customTotem": false,
+  "lagDelay": 303,
+  "chamsStyle": 1,
+  "auraStyle": 0,
+  "jumpStyle": 0,
+  "hitStyle": 0,
+  "freecamSpeed": 0.65,
+  "maceHelperEnabled": true,
+  "maceCpsMin": 16,
+  "maceCpsMax": 20,
+  "maceSmashTiming": true,
+  "axeMaceFollowup": false,
+  "silentAimEnabled": true,
+  "silentAimRangeDegrees": 79.53125,
+  "combatFriends": [
+    "anticheatbypas",
+    "iranbomb"
+  ],
+  "inventoryWatch": {
+    "minecraft:end_crystal": true,
+    "minecraft:elytra": true,
+    "minecraft:tnt_minecart": false,
+    "minecraft:lever": false,
+    "minecraft:mace": false
+  },
+  "tracersEnabled": true,
+  "revealInvisiblePlayers": true,
+  "playerBoxes": true,
+  "boxOutline": true,
+  "boxFill": true,
+  "playerEspOutline": false,
+  "playerEspGlow": false,
+  "playerEspFill": false,
+  "boxColorIndex": 6,
+  "tracerColorIndex": 6,
+  "tungSahurEnabled": false,
+  "tungPresetSnapshot": false,
+  "tungSavedEffects": [
+    "SKY",
+    "TARGET",
+    "MUSIC",
+    "ARRAY",
+    "STATS",
+    "DRAGON",
+    "HOTBAR",
+    "JUMP",
+    "KILL",
+    "AURA",
+    "ATMOSPHERE"
+  ],
+  "tungSavedAccent": -1,
+  "tungSavedWeatherStyle": 5,
+  "tungSavedWeatherDensity": 1,
+  "tungSavedBoxColor": 6,
+  "tungSavedTracerColor": 6,
+  "tungSavedBloom": true,
+  "tungSavedPlayerEsp": true,
+  "tungSavedTracers": true,
+  "tungSavedBoxFill": true,
+  "tungSavedPlayerOutline": false,
+  "tungSavedPlayerGlow": false,
+  "tungSavedPlayerFill": false,
+  "tungSavedReveal": true,
+  "menuAnimationFps": 60,
+  "uiTextResolution": 4,
+  "animationQualityVersion": 2,
+  "discordApplicationId": "1572997455098806402",
+  "discordLargeImageKey": "client_emblem",
+  "messageRepeat": false
+}
